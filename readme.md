@@ -30,8 +30,9 @@ When writing files to this location make sure that you change the permissions to
 
 ## Author
 
-Zachary DeGeorge
+Zach DeGeorge
 
 zdegeorge@biggby.com
 
 https://github.com/zdegeorge
+`
